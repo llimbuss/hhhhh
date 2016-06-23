@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick=-=Asses=-"">
+	<name>Clan Asses</name>
+	<email></email>
+	<web></web>
+	<picture>3182bff80a6e6846b1c327662540f6fe.paa</picture>
+	<title></title>
+	<member id=76561198038378411"" nick=llimbus"">
+		<name>Anderson Lima</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+	<member id="" nick="">
+		<name></name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+</squad>
